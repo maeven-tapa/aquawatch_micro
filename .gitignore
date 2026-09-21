@@ -1,0 +1,11 @@
+# Local tool/build output (aquawatch_build is the upload source, not generated output)
+.pio/
+.arduino/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+.DS_Store
+Thumbs.db
